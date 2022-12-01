@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Morten</h1>
 <h3 align="center">A passionate (Self-teaching) Full-Stack developer from Norway</h3>
 
-- 🔭 I’m currently working on **Unit Converter**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **JavaScript, Blender**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **morten1.kodehode@gmail.com**
 
