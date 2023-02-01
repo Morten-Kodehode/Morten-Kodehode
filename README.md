@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Typescript**
 
-- 👨‍💻 All of my projects are available at [mortenjohansson.xyz](mortenjohansson.xyz)
+- 👨‍💻 Select projects are available at [mortenjohansson.xyz](mortenjohansson.xyz)
 
 - 📫 How to reach me **morten1.kodehode@gmail.com**
 
