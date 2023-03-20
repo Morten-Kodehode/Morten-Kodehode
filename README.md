@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morten-kodehode" alt="morten-kodehode" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Typescript, Next.JS**
+- 🌱 I’m currently learning **Typescript, Next.JS**
 
 - 👨‍💻 Select projects are available at [mortenjohansson.xyz](mortenjohansson.xyz)
 
