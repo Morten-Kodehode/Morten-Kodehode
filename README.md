@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Morten</h1>
-<h3 align="center">A Self-Taught Front-End developer from Norway</h3>
+<h3 align="center">A Self-Taught developer from Norway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morten-kodehode&label=Profile%20views&color=0e75b6&style=flat" alt="morten-kodehode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morten-kodehode" alt="morten-kodehode" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, Next.JS**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 Select projects are available at [mortenjohansson.xyz](mortenjohansson.xyz)
-
-- 📫 How to reach me **morten1.kodehode@gmail.com**
+- 📫 How to reach me **morten.johansson@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
